@@ -1,0 +1,38 @@
+/*-------------- LOGO DISPLAY - Made By Poison -------------- */
+
+#logo .contenair{
+	position:absolute;
+	z-index: 2;    
+	width: 200px;									
+	height:200px;									
+	left:97%;										
+	top:17%;										
+	margin:-200px 0 0 -200px;    					
+	opacity: 0.60; 
+	background: url('img/logo.png');				
+	padding: none; 									
+    
+}
+	
+#logo .spacer{
+	z-index: 2;
+	width: 100%;
+	height: 120px;
+	margin: 0;  
+	text-align: left;
+  background: transparent;	
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
